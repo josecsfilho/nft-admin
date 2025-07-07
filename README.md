@@ -12,11 +12,18 @@ Seu objetivo é ser simples, segura e fácil de usar, permitindo a administraç�
 - Edição completa de perfis (IPs, portas, comentários)
 - Sem uso de arquivos JSON ou banco externo — apenas o `.conf` oficial
 
+![image](https://github.com/user-attachments/assets/0776653e-fc20-4017-95d4-30b2d71a3770)
+
+
+![image](https://github.com/user-attachments/assets/4d5fb21c-f420-4ef6-9c5f-0516c4923979)
+
+
 ## 📂 Estrutura
 
 ```bash
 nft-admin/
 ├── nft_admin.py           # Lógica de gerenciamento de regras
-├── requirements.txt       # Dependências do projeto
-└── .gitignore             # Ignora o venv e cache
-# nft-admin
+└── requirements.txt       # Dependências do projeto
+
+
+
